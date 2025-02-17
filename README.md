@@ -1,4 +1,25 @@
-## Hi there 👋
+🚀 About Me
+
+I'm a Software Engineer with a First-Class BEng in Software Engineering. Passionate about coding, observability, and machine learning, I love building efficient, scalable, and impactful software solutions.
+
+💻 Experience: Worked as a software developer at Pro-Sight and TBA Doncaster, contributing to NHS-related projects.
+
+🔬 Research: My final-year project focused on machine learning for glaucoma detection.
+
+🌐 Current Work: Trying out a Blazor Server app 
+
+🛠️ Tech Stack: C#, .NET, Python, HTML, CSS, JS, Java
+
+💼 [LinkedIn](https://www.linkedin.com/in/john-shepherd-15549713a/)
+
+📝 [Personal Blog](https://j-shepherd-dev.github.io/Site/home.html)
+
+📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Shepherd-Dev&show_icons=true&theme=radical)
+
+🚀 Always open to exciting projects and collaborations!
+
 
 <!--
 **J-Shepherd-Dev/J-Shepherd-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
