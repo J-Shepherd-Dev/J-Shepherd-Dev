@@ -14,10 +14,6 @@ I'm a Software Engineer with a First-Class BEng in Software Engineering. Passion
 
 📝 [Personal Blog](https://j-shepherd-dev.github.io/Site/home.html)
 
-📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Shepherd-Dev&show_icons=true&theme=radical)
-
 🚀 Always open to exciting projects and collaborations!
 
 
