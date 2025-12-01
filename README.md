@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/0b2a9e5d-1a8a-418c-9d64-0e3128b7acb1/thumbnail" >
+</p>
